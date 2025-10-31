@@ -52,8 +52,8 @@ Example Markdown:
 1. Clone this repository:
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone (https://github.com/Yaswanth-Vissamsetty/BurgerRaja)>
+   cd (https://github.com/Yaswanth-Vissamsetty/BurgerRaja)>
    ```
 2. Open `index.html` directly in your browser, **or** run a local server:
 
