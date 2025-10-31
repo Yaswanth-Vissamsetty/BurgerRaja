@@ -1,9 +1,3 @@
-Sure — here’s your **ready-to-paste README.md** (fully formatted Markdown, no placeholders except the optional Netlify badge ID).
-Just copy and paste this into your project’s `README.md` file 👇
-
----
-
-```markdown
 # 🍔 BurgerRaja — Fast Food Restaurant Landing Page
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-blue)](https://yaswanth-burger-raja.netlify.app/)  
